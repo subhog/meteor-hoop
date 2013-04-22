@@ -3,7 +3,7 @@
   "description": "Classes in Javascript done the right way",
   "homepage": "https://github.com/subhog/hoop",
   "author": "Hubert Orlik-Grzesik <hubert@orlikarnia.com",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "git": "https://github.com/subhog/hoop.git",
   "packages": {
     "page-js-ie-support": {}
