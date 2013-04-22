@@ -3,7 +3,7 @@
   "description": "Classes in Javascript done the right way",
   "homepage": "https://github.com/subhog/meteor-hoop",
   "author": "Hubert Orlik-Grzesik <hubert@orlikarnia.com",
-  "version": "0.9.3",
+  "version": "0.9.4",
   "git": "https://github.com/subhog/meteor-hoop.git",
   "packages": {
     "page-js-ie-support": {}
