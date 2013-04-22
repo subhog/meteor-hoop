@@ -1,10 +1,10 @@
 {
   "name": "hoop",
   "description": "Classes in Javascript done the right way",
-  "homepage": "https://github.com/subhog/hoop",
+  "homepage": "https://github.com/subhog/meteor-hoop",
   "author": "Hubert Orlik-Grzesik <hubert@orlikarnia.com",
   "version": "0.9.3",
-  "git": "https://github.com/subhog/hoop.git",
+  "git": "https://github.com/subhog/meteor-hoop.git",
   "packages": {
     "page-js-ie-support": {}
   }
