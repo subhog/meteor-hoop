@@ -1,7 +1,9 @@
 $extends = function(child, parent) {
-  child.prototype = Object.create(parent.prototype);
+  function bond() {};
+  bond.prototype = parent.prototype;
+  child.prototype = new bond();
   child.prototype.constructor = child;
-  child.prototype.super = parent.prototype;
+  child.super = parent.prototype;
 };
 
 $functions = function(f, object) {
